@@ -1,0 +1,2 @@
+# GenericTableView
+Use this to shorten the process of creating UITableViewDatasource and UITableViewDelegate in your project. Implement only once and you will be able to use it whereever you want in your project. Just creating it's object. In addition to this you the other advantage is now with the help of this no need to add condition in cellForRowATIndexPath method. Simple to use and easy to understand :)
